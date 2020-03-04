@@ -32,6 +32,8 @@ After dimensionality reduction, the first 4 components explained >99% of the var
 
 Finally, I chose to use Gradient Boosting Classifier as the model to predict the target population. The train data was first split into train and test dataset. The model was fine tuned one parameter at a time by manually evaluating the test accuracy scores. During this process, I was able to visualize overfitting (increased training accuracy but decreased test accuracy). The best model with the highest TEST accuracy was then used to predict the provided test dataset and the result was submitted to kaggle for competition. After a few tweaks, my submission ranked around 100.
 
+Future improvement: 1) the treatment on missing value can be improved by imputing the mode or medium. 2) My inspection on correlation of "year" and "year of birth" needs to be investigated, this is to prevent the effect on highly correlated input features biasing the model. 3) The model selection can be flexible. The deep neutron network can be tested for improvement.
+
 The reports were also on Medium: https://medium.com/@huoww07/segmentation-report-for-arvato-financial-services-bb4b18e9b8b0.
 
 
