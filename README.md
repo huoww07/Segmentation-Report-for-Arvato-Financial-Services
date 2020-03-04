@@ -34,7 +34,8 @@ Finally, I chose to use Gradient Boosting Classifier as the model to predict the
 
 Future improvement: 1) the treatment on missing value can be improved by imputing the mode or medium. 2) My inspection on correlation of "year" and "year of birth" needs to be investigated, this is to prevent the effect on highly correlated input features biasing the model. 3) The model selection can be flexible. The deep neutron network can be tested for improvement.
 
-The reports were also on Medium: https://medium.com/@huoww07/segmentation-report-for-arvato-financial-services-bb4b18e9b8b0.
+The reports were also on Medium:
+https://medium.com/@huoww07/segmentation-report-for-arvato-financial-services-bb4b18e9b8b0
 
 
 ## Licensing, Acknowledgements
