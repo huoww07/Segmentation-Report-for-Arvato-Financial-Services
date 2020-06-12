@@ -40,4 +40,4 @@ https://medium.com/@huoww07/segmentation-report-for-arvato-financial-services-bb
 
 ## Licensing, Acknowledgements
 Licensing: Feel free to use the code here as you would like! Comments and suggestions are welcome!
-Acknowledgement: Thanks to Kaggle competition for data availability and Udacity course instructors from Data Science nanodegree.  
+Acknowledgement: Thanks to Kaggle competition for data availability and Udacity course instructors.  
