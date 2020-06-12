@@ -11,7 +11,7 @@
 The code does not require specific installation. It runs in ipython notebook environment with Python version 3. Required libraries to run the code (installation via: pip install library_name) include: pandas, numpy, matplotlib, seaborn, sklearn.
 
 ## Project movivation
-This is a collaborative project between Udacity and Arvato Finacial Solutions to identify customers from a mailout campaign. The project serves as the Capstone project for Udacity Data Science nanodegree. There is also a Kaggle competition with the associated datasets.
+This is a collaborative project between Udacity and Arvato Finacial Solutions to identify customers from a mailout campaign. The project serves as the Capstone project for Udacity nanodegree. There is also a Kaggle competition with the associated datasets.
 
 In this project, a mail-order company was interested in identifying segments of the general population to target with their product. Demographic information was provided for general population and a customer population. The unsupervised learning techniques were used to identify the population that mostly likely would respond to the campaign. Next, the mail-out customer data with order response was used to train an supervised model. The fine tuned model was used to make prediction on test dataset and submitted for Kaggle competition.
 
